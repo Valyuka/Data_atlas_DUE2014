@@ -5,8 +5,8 @@ Buses
 
 date:
 
-type: ???
-author:
+type: scraping
+author: Valentina
 quality:
 
 rows: 487
